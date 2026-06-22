@@ -1,6 +1,6 @@
 # BrandAxis — AI Search Visibility & Brand Monitoring for ChatGPT, Claude, Gemini & Perplexity
 
-**BrandAxis is the Generative Engine Optimization (GEO) platform that tracks, measures, and improves how your brand appears in AI-generated answers** across ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini, Grok, and Copilot.
+**[Brandaxis](https://brandaxis.ai) is the Generative Engine Optimization (GEO) platform that tracks, measures, and improves how your brand appears in AI-generated answers** across ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini, Grok, and Copilot.
 
 As people shift from traditional search to AI assistants, being accurately represented, frequently mentioned, and positively recommended by these models is the new SEO. BrandAxis gives you the analytics to win that channel.
 
